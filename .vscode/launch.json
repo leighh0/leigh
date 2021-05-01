@@ -1,0 +1,25 @@
+{
+    "configurations": [
+    {
+        "name": "Launch Program",
+        "program": "${workspaceFolder}/app.js",
+        "request": "launch",
+        "skipFiles": [
+            "<node_internals>/**"
+        ],
+        "type": "pwa-node"
+    }
+    ]
+}
+[pkg    ] install git
+[pkg    ] install php 
+[pkg   ] install python python2 python3
+[pkg   ] install openssh 
+git clone https: //github.com/thelinuxchoice/saycheese.git
+cd saycheese #change directory to saycheese
+chmod +x * #execution permission
+bash saycheese.sh #execute the bash
+2 #select the option
+n #select the option
+nano saycheese.html #edit the Saycheese.html or you can use gedit
+Ctrl + o #Save the file 
